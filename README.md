@@ -3,7 +3,7 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-rosa-148520284)
 
 I'm a backend developer<br />
-I’m a programming student
+I'm currently an intern
 
 Studying backend !!!
 
