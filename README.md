@@ -1,11 +1,9 @@
 ## Oi, eu sou o Davi 👋!
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-rosa-148520284)
 
 I'm a backend developer<br />
-I'm currently an intern
 
-Studying backend !!!
+Studying JAVA !!!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosadavi)](https://github.com/rosadavi/github-readme-stats)
   ## Tecnologias que uso 💻
