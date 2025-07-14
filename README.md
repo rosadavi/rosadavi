@@ -1,11 +1,11 @@
 ## Oi, eu sou o Davi 👋!
 
 
-I'm a backend developer<br />
+Desenvolvedor backend <br />
 
-NodeJS 💻
+Backend NodeJS 💻
 <br />
-Studying JAVA ☕ !!!
+Estudando JAVA ☕ !!!
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
