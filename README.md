@@ -2,7 +2,7 @@
 
 Desenvolvedor de software com foco em **backend Java**, atuando na construção de sistemas escaláveis, seguros e orientados a boas práticas de engenharia.
 
-Sou formado em **Análise e Desenvolvimento de Sistemas pela UniProjeção** e tenho experiência no desenvolvimento de **APIs RESTful**, arquitetura de **microsserviços**, integrações financeiras e processamento de dados.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho experiência no desenvolvimento de **APIs RESTful**, arquitetura de **microsserviços**, integrações financeiras e processamento de dados.
 
 Também possuo atuação **fullstack**, com experiência em **Node.js, TypeScript, React e Next.js**, além de trabalhar com **Docker** na containerização e padronização de ambientes.
 
