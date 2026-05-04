@@ -76,7 +76,3 @@ https://portifolio.davirosa.site/
 - Git e metodologias ágeis  
 
 ---
-
-## 📊 Estatísticas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosadavi&layout=donut-vertical&hide=html,css,handlebars&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
