@@ -7,7 +7,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho experiência n
 Também possuo atuação **fullstack**, com experiência em **Node.js, TypeScript, React e Next.js**, além de trabalhar com **Docker** na containerização e padronização de ambientes.
 
 🚀 Portfólio:  
-https://portifolio.davirosa.site/
+https://rosadavi.dev/
 
 <a href="https://www.linkedin.com/in/davi-rosa-148520284/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
